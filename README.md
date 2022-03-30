@@ -1,6 +1,6 @@
 # express-starter-pack
 
-__ EN : __
+__EN :__
 
 This starter pack will allow you to start faster and don't have to create the tree structure.
 this pack contain : 
@@ -33,7 +33,7 @@ npm install
 node ./app.js
 ```
 
-__ FR : __
+__FR :__
 
 Ce pack vous permettra de commencer plus rapidement et ne pas avoir à refaire l'arborescence.
 
